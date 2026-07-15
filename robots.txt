@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-of01xu.iraq-international-schools.net/sitemap.xml
